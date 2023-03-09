@@ -1,0 +1,19 @@
+[
+    {
+      "id":"user1@example.com",
+      "channelId":"LawAnatomy"
+    },
+    {
+        "id":"user2@example.com",
+        "channelId":"Matrix Education"
+    },
+    { 
+        "id":"user3@example.com",
+        "channelId":"Code Volution"
+
+    },
+    {
+        "id":"user4@example.com",
+        "channelId":"Legal Service"
+    }
+]

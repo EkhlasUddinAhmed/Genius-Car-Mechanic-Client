@@ -1,0 +1,18 @@
+[
+    {
+        "id":"LawAnatomy",
+        "course":["Company Law","Contract Law","Penal Code"]
+    },
+    {
+        "id":"Matrix Education",
+        "course":["FP2","FP2","Mechanics4"]
+    },
+    {
+        "id":"Code Volution",
+        "course":["React-js","Next-js","React-formick"]
+    },
+    {
+        "id":"Legal Service",
+        "course":["Civil-Matter","Criminal-Matter","Writ"]
+    }
+]

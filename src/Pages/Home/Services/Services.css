@@ -1,0 +1,40 @@
+.service-Design{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+/* #FF3811 */
+
+color: #FF3811;
+}
+.serviceArea{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 54px;
+
+/* Dark 01 */
+
+color: #151515;
+
+}
+.des-design{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+
+text-align: center;
+text-transform: capitalize;
+
+}
+.grid-design{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}
